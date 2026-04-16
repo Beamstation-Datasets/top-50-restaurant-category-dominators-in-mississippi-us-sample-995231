@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Mississippi, US",
+  "export_job_id": "b4546b3f-cc20-42b8-9253-f80ae4b4ca29",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 995231,
+  "location_name": "Mississippi",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-mississippi-us-sample-995231",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/995231/beamstation_995231_restaurants-us-ms_SAMPLE_DIST.csv",
+  "sample_pct": 8.0,
+  "sample_records": 4,
+  "sample_sha256": "b0dc916f451abd5d17f001d687477af83b17c29f8eb780c8ee61310737cafba4",
+  "sample_size_bytes": 33349,
+  "total_records": 50,
+  "updated_at": "2026-04-07T15:21:54.790046+00:00"
+}
