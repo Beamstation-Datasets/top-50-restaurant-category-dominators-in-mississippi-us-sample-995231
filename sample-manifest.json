@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b4546b3f-cc20-42b8-9253-f80ae4b4ca29",
+  "export_job_id": "98d3ad30-f86a-4214-b1ca-a36f19cc0ca6",
   "id_short": 995231,
-  "published_at": "2026-04-16T07:38:12Z",
+  "published_at": "2026-04-18T07:39:07Z",
   "repo_name": "top-50-restaurant-category-dominators-in-mississippi-us-sample-995231",
   "sample_asset_name": "beamstation_995231_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/995231/beamstation_995231_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_records": 4,
   "sample_sha256": "b0dc916f451abd5d17f001d687477af83b17c29f8eb780c8ee61310737cafba4",
   "sample_size_bytes": 33349,
-  "total_records": 50
+  "total_records": 46
 }
