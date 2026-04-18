@@ -9,9 +9,9 @@
 | Dataset ID | `995231` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 4 records (8.0%) |
-| Last export | 2026-04-07T15:21:54.790046+00:00 |
+| Full dataset size | 46 records |
+| Free sample size | 4 records (8.7%) |
+| Last export | 2026-04-14T21:48:03.190345+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-mississippi-us-sample-995231/releases/download/sample-latest/beamstation_995231_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
