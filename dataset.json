@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Mississippi, US",
-  "export_job_id": "98d3ad30-f86a-4214-b1ca-a36f19cc0ca6",
+  "export_job_id": "d3cc1b43-0adc-4fd0-86d8-55cbf1a73c3d",
   "github_org": "Beamstation-Datasets",
   "id_short": 995231,
   "location_name": "Mississippi",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-mississippi-us-sample-995231",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/995231/beamstation_995231_restaurants-us-ms_SAMPLE_DIST.csv",
-  "sample_pct": 8.7,
+  "sample_pct": 9.76,
   "sample_records": 4,
-  "sample_sha256": "b0dc916f451abd5d17f001d687477af83b17c29f8eb780c8ee61310737cafba4",
-  "sample_size_bytes": 33349,
-  "total_records": 46,
-  "updated_at": "2026-04-14T21:48:03.190345+00:00"
+  "sample_sha256": "d7c0e6b30e112d56d0b6b706a384900184b8418128846216a89778c0897a9238",
+  "sample_size_bytes": 33626,
+  "total_records": 41,
+  "updated_at": "2026-04-22T00:28:09.619938+00:00"
 }
